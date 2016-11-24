@@ -1,0 +1,29 @@
+.container {
+	width: 95%;
+}
+
+.jumbotron {
+	background-color: #0F1A11;
+	color: white;
+	width: 100%;
+	padding-left: 30px;
+	background-image: url(logo-spotify.jpg);
+	text-shadow: black 0.5em 0.5em 0.5em;
+	transition: 1000ms;
+}
+
+.jumbotron:hover {
+  background-image: url(logo-spotify.jpg);  
+  transition: 1000ms;
+}
+
+.form-group {
+	width: 100%;
+	padding-right: 120px;
+
+}
+
+.artist-image {
+	height: auto;
+	width: 10%;
+}
