@@ -42,8 +42,5 @@ $(document).on('ready', function (){
 		});
 	};
 
-	function handleError (error) { 
-	    console.log('Error!');
-	    console.log(error.responseText);
-	};
+s
 });
